@@ -1,14 +1,14 @@
 # 💻 Swift Developer | 🎓 YSTU Student  
 ![Header Image](https://github.com/user-attachments/assets/35406b3d-ab22-43c6-ad00-042eaa8904cc) 
 
-Hello there! 👋 I'm a **Swift Developer** and a proud student at **Yaroslav-the-Wise State University (YSTU)**. I enjoy crafting clean, efficient code and creating intuitive iOS apps. 🚀  
+Hello there! 👋 I'm a **Swift Developer** and student at **Yaroslav-the-Wise State University (YSTU)**. I enjoy crafting clean, efficient code and creating intuitive iOS apps. 🚀  
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **University**: YSTU (Yaroslav-the-Wise State University)  
 - 💡 **Passionate About**: iOS Development, Swift Programming, and Learning New Technologies.  
-- 🌱 **Currently Learning**: SwiftUI, Core Data, and Combine.  
+- 🌱 **Currently Learning**: UIKit
 - 🎯 **Goals**:  
   - Build and release an iOS app on the App Store.  
   - Contribute to open-source Swift projects.  
@@ -20,9 +20,9 @@ Hello there! 👋 I'm a **Swift Developer** and a proud student at **Yaroslav-th
 | Category          | Skills                                                                 |
 |-------------------|-------------------------------------------------------------------------|
 | **Languages**     | Swift, Objective-C                                                    |
-| **Frameworks**    | UIKit, SwiftUI, Combine, Core Data                                    |
+| **Frameworks**    | UIKit, Core Data                                                      |
 | **Tools**         | Xcode, Git, Figma                                                     |
-| **Other**         | RESTful APIs, JSON Parsing, MVC & MVVM Architecture                   |
+| **Other**         | JSON Parsing, MVC & MVVM Architecture                                 |
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
@@ -32,20 +32,9 @@ Hello there! 👋 I'm a **Swift Developer** and a proud student at **Yaroslav-th
 
 ## 📱 Projects  
 Here are some of the projects I’ve been working on:  
-1. **My First iOS App** - [GitHub Repo](#)  
-   _A weather app that fetches live weather data using RESTful APIs._  
-   ![Weather App](https://via.placeholder.com/300x200.png?text=Project+Screenshot)
-
-2. **Expense Tracker** - [GitHub Repo](#)  
-   _An iOS app for tracking daily expenses with Core Data and SwiftUI._  
-   ![Expense Tracker](https://via.placeholder.com/300x200.png?text=Project+Screenshot)
-
----
-
-## 🌟 Get in Touch  
-- 🐦 **Twitter**: [@yourusername](#)  
-- 💼 **LinkedIn**: [Your Name](#)  
-- 🌐 **Portfolio**: [Your Portfolio](#)  
+1. **Luminis** - [GitHub Repo](#)  
+   _⚡️IOS application for checking exam marks and week schedule for YSTU students._  
+   ![LuminisIcon](https://github.com/user-attachments/assets/3c8964ac-5e97-4073-9764-7a55e96226de)
 
 ---
 
