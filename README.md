@@ -1,5 +1,5 @@
 # 💻 Swift Developer | 🎓 YSTU Student  
-![Header Image](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+Profile)  
+![Header Image](https://github.com/user-attachments/assets/ec59da7c-4018-4715-a43f-557b85a537ae) 
 
 Hello there! 👋 I'm a **Swift Developer** and a proud student at **Yaroslav-the-Wise State University (YSTU)**. I enjoy crafting clean, efficient code and creating intuitive iOS apps. 🚀  
 
