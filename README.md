@@ -32,7 +32,7 @@ Hello there! 👋 I'm a **Swift Developer** and student at **Yaroslav-the-Wise S
 
 ## 📱 Projects  
 Here are some of the projects I’ve been working on:  
-1. **Luminis**<img src="https://github.com/user-attachments/assets/bfb5805f-b4e1-49e7-b1f0-18865f0fee03" alt="Luminis Logo" width="50" align="left">  - [GitHub Repo](#)  
+1. **Luminis**<img src="https://github.com/user-attachments/assets/bfb5805f-b4e1-49e7-b1f0-18865f0fee03" alt="Luminis Logo" width="50" align="left">  - [GitHub Repo](https://github.com/AlexGo12311/Luminis)  
    _⚡️IOS application for checking exam marks and week schedule for YSTU students._
 
 ---
