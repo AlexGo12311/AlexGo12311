@@ -37,4 +37,5 @@ Here are some of the projects I’ve been working on:
 
 ---
 
-![Footer Image](https://via.placeholder.com/1000x100.png?text=Thanks+for+Visiting!)
+![Footer Image](https://github.com/user-attachments/assets/0da31ad9-c1d9-4a52-9d74-80d64d5c6be7)
+
